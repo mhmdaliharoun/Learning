@@ -1,3 +1,3 @@
 print('Hello, world!')
-print("New")
+print("New build")
 print("now build all")
