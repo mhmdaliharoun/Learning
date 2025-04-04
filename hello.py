@@ -1,3 +1,5 @@
-print('Hello, world!')
-print("New build")
-print("now build all")
+def function():
+    print ("This is  the first fucntion")
+
+
+function()
